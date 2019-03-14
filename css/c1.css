@@ -1,0 +1,70 @@
+body{
+	background-color: #399;
+}
+#part1{
+	margin:200px auto 0 auto; 
+}
+#part2{
+	position: relative;
+}
+#part25{
+	position: absolute;
+    right:600px;  
+}
+#part3{
+	background-color: #699;
+	margin: 0 auto;
+	width: 350px;
+	height: 40px;
+	font-size: 25px;
+	text-align: center;
+}
+#hey{
+	width: 500px;
+	font-family: "fantasy";
+	font-size: 50px;
+	color: #2B2B2B;
+	text-align: center;
+	margin:0 auto;
+}
+
+input{
+	width: 350px;
+	height: 40px;
+	border:0px;
+	display: flex;
+	margin:10px auto;
+	border-radius: 4px;
+	text-align: center;
+	background-color: #6cc;
+}
+input:hover{
+	border:blue solid 2px;
+}
+input:focus{
+	width: 400px;
+	background-color: #6cc;
+}
+button{
+	width: 350px;
+	height: 40px;
+	text-align: center;
+	border-radius: 2px;
+	cursor: pointer;
+	border:0px;
+	background-color: white;
+	vertical-align: center;
+	margin: 0 auto;
+	display: block;
+	background-color: #6c9;
+}
+
+#findk{
+	text-align: right;
+	color: black;
+	text-decoration: none;
+}
+#findk,#register:visited{
+	color: pink;
+	text-decoration: none;
+}

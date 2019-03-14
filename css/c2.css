@@ -1,0 +1,13 @@
+header{
+	margin: 0 auto;
+	height: 300px;
+}
+div{
+	background-color: pink;
+}
+footer{
+	background-color: white;
+}
+body{
+	background-color: green;
+}
